@@ -1,0 +1,6 @@
+{
+  "name": "Shift Alarm Assistant",
+  "description": "Shift Alarm Assistant developed by Emon Howlader. Automatically synchronizes Gmail and SMS to detect shift rescheduling, extract employee names and dates, calculate reminders, schedule native Clock and internal alarms, with RGB water-drop animations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
